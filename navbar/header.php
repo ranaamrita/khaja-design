@@ -12,6 +12,8 @@
 <script type="text/javascript" src="assets/js/jquery-3.3.1.js"></script>
 <script type="text/javascript" src="assets/js/popper.min.js"></script>
 <script type="text/javascript" src="assets/js/bootstrap.js"></script>
+<link rel="stylesheet" type="text/css" href="assets/css/about.css">
+<link rel="stylesheet" type="text/css" href="assets/css/index1.css">
 </head>
 <body>
 <div class="container_img_bread no-img-cate img-breadcrumb-on-fieldthemecustomizer">
@@ -25,10 +27,10 @@
 	  <div class="collapse navbar-collapse" id="navbarSupportedContent">
 		    <ul class="navbar-nav mr-auto">
 		      <li class="nav-item active">
-		        <a class="nav-link1" href="#">HOME<span class="sr-only">(current)</span></a>
+		        <a class="nav-link1" href="index.php"><b>HOME</b></a>
 		      </li>
 		      <li class="nav-item">
-		        <a class="nav-link" href="#">ABOUT US</a>
+		        <a class="nav-link" href="about.php"><b>ABOUT US</b></a>
 		       </li>  
 		    </ul>
 		      

@@ -1,8 +1,13 @@
+
+  <?php include('navbar/header.php') ?>
 <div class="conatiner abc">
 	<div class="row">
-		<div class="col-md-2">
+
+        <img src="photo/image4.jpg" class="img-responsive " width= 100%, height= 400px;>
+
+		<!-- <div class="col-md-2">
 			
-				<ul><a href="detail.php">Sweets center</a></ul><hr>
+				<ul><a href="#">Sweets center</a></ul><hr>
 				<ul><a href="#">Bakery</a></ul><hr>
 				<ul><a href="#">cafe</a></ul><hr>
 				<ul><a href="#">Resturant</a></ul><hr>
@@ -68,7 +73,7 @@
 					<span class="sr-only">Next</span>
 				</a>
 	        </div>
-	    </div>
+	    </div> -->
 	   <!--  <div class="col-md-2">
 	    	<h3>TODAY'S SPECIALS</h3>
 	    	<ul>
@@ -144,69 +149,83 @@
 		<div class="col-md-2">
 			
 		</div>
-		<div class="col-md-8">
+		<!-- <div class="col-md-8">
 			<h3 class="text-center">Search Food By Map Location <a href="#"><b> Click here</b></a></h3>
 			<h1 class="text-center">MORE THAN <a href="#"><b>300 DISHES</b></a> TO ORDER</h1>
 			<p class="text-center">Welcome to the World of Food ordering and Delivery</p>
-		</div>
+		</div> -->
 		<div class="col-md-2">
 			
 		</div>
 	</div><br>
+	<br><br><br>
+	<h3 class="center">WEL COME TO OUR RECIPES</h3>
+	<br><br>
 	<div class="row">
-		<div class="col-md-3">
-			<img src="photo/cake1.jpg" class="img-responsive image">
-			 <a href="#"><span><b>Cakes</b></span></a> <br>
-
-              <span><b>$68.00</b></span>
-			  <s>ddjjj</s>
+		<div class="col-md-3 rel-pos">
+			<img src="photo/cake1.jpg" class="img-responsive img-thumbnail image shadow">
+			 <div class="over-text">
+                <a href="#"><span><b>Cakes</b></span></a> <br>
+  
+  </div>
 		</div>
 		<div class="col-md-3">
-			<img src="photo/image4.jpg" class="img-responsive image">
-			 <a href="#"><span><b>Cakes</b></span></a> <br>
-                <span><b>$68.00</b></span>
-			 
+			<img src="photo/image4.jpg" class="img-responsive img-thumbnail image">
+			 <div class="over-text">
+            <a href="#"><span><b>Cakes</b></span></a> <br>
+  
+  </div>
 		</div>
 		<div class="col-md-3">
-			<img src="photo/image6.jpg" class="img-responsive image">
-			 <a href="#"><span><b>Cakes</b></span></a> <br>
-		                <span><b>$68.00</b></span>
-
+			<img src="photo/image6.jpg" class="img-responsive img-thumbnail image">
+			<div class="over-text">
+             <a href="#"><span><b>Cakes</b></span></a> <br>
+  
+            </div>
 		</div>
 		<div class="col-md-3">
-			<img src="photo/image2.jpg" class="img-responsive image" >
-			 <a href="#"><span><b>Cakes</b></span></a> <br>
-                <span><b>$68.00</b></span>
-
+			<img src="photo/image2.jpg" class="img-responsive img-thumbnail image" >
+			 <div class="over-text">
+             <a href="#"><span><b>Cakes</b></span></a> <br>
+  
+            </div>
 		</div>
 
 	</div><br>
 	<div class="row">
 		<div class="col-md-3">
-			<img src="photo/cake2.jpg" class="img-responsive image">
-			 <a href="#" class="text-center"><span><b>Cakes</b></span></a> <br>
-                <span><b>$50.00</b></span>
+			<img src="photo/cake2.jpg" class="img-responsive img-thumbnail image">
+			 <div class="over-text">
+             <a href="#"><span><b>Cakes</b></span></a> <br>
+  
+            </div>
 			  
 		</div>
 		<div class="col-md-3">
-			<img src="photo/image1.jpg" class="img-responsive image">
-	         <a href="#"><span><b>Cakes</b></span></a> <br>
-                <span><b>$68.00</b></span>
+			<img src="photo/image1.jpg" class="img-responsive img-thumbnail image">
+	         <div class="over-text">
+             <a href="#"><span><b>Cakes</b></span></a> <br>
+  
+            </div>
 			 
 		</div>
 		<div class="col-md-3">
-			<img src="photo/image7.jpg" class="img-responsive image
+			<img src="photo/image7.jpg" class="img-responsive img-thumbnail image
 			">
-			 <a href="#"><span><b>Burgur</b></span></a> <br>
-                <span><b>$100.00</b></span>
-			  
+             <div class="over-text">
+             <a href="#"><span><b>Cakes</b></span></a> <br>
+  
+            </div>
 		</div>
 		<div class="col-md-3">
-			<img src="photo/image3.jpg" class="img-responsive image">
-			 <a href="#"><span><b>Bakery</b></span></a> <br>
-                <span><b>$100.00</b></span>
+			<img src="photo/image3.jpg" class="img-responsive img-thumbnail image">
+			 <div class="over-text">
+             <a href="#"><span><b>Cakes</b></span></a> <br>
+  
+            </div>
 			  
 		</div>
 	</div>
 </div>
 </div>
+<?php include('navbar/footer.php');?> 

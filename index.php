@@ -5,3 +5,4 @@
 	<?php include('pages/contact.php'); ?>
     <?php include('pages/test.php'); ?>
  <?php include('navbar/footer.php');?> 
+ <!-- <?php include('about.php');?> -->
