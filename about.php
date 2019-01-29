@@ -37,5 +37,4 @@
 		</div>
 	</div>
 </div>
-</body>
-</html>
+<?php include('navbar/footer.php');?> 
