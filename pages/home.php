@@ -69,6 +69,52 @@
 				</a>
 	        </div>
 	    </div>
+	      <div class="col-md-2">
+	    	<h4>TODAY'S SPECIALS</h4>
+	    	
+	    		<div >
+	                  <h5>CAFE</h5>
+	                  	<div style="border-radius: 10px;border-style: solid;border-width: 1px;">
+	                  		<p class="pp"><img src="photo/cake1.jpg" class="image3"> <span class="small">cake</span>  <span class="small">RS 123</span></p>
+	                  	</div><br>
+	                  	 
+	                  	<div style="border-radius: 10px;border-style: solid;border-width: 1px;">
+	                  		<p class="pp"><img src="photo/cake1.jpg" class="image3"> <span class="small">Pizaa</span> <span class="small">RS 123</span></p>
+	                  	</div><br>
+	                  
+	                  	
+	                  	 <h5>RESTURANTS</h5>
+	                  	<div style="border-radius: 10px;border-style: solid; border-width: 1px;">
+	                  		<p class="pp"><img src="photo/cake1.jpg" class="image3">  <span class="small">Pizza</span><span class="small"> Rs 300</span></p>
+	                  	</div><br>
+	                  	
+	                  	
+	                  	<div style="border-radius: 10px;border-style: solid; border-width: 1px;">
+	                  		<p class="pp"><img src="photo/cake1.jpg" class="image3"> <span class="small">momo</span> <span class="small">RS 123</span></p>
+	                  	</div><br>
+	                  	
+	                  	 <h5> DIARY PRODUCTS</h5>
+	                  	<div style="border-radius: 10px;border-style: solid; border-width: 1px;">
+	                  		<p class="pp"><img src="photo/cake1.jpg" class="image3">  <span class="small">Pizza </span><span class="small"> Rs 300</span></p>
+	                  	</div><br>
+	                  	
+	                  	
+	                  	<div style="border-radius: 10px;border-style: solid; border-width: 1px;">
+	                  		<p class="pp"><img src="photo/cake1.jpg" class="image3"> <span class="small">momo</span> <span class="small">RS 123</span></p>
+	                  	</div><br>
+	                  	
+	                  
+						    
+			
+						    
+						    	
+
+
+
+
+
+
+
 	   <!--  <div class="col-md-2">
 	    	<h3>TODAY'S SPECIALS</h3>
 	    	<ul>
@@ -155,56 +201,68 @@
 	</div><br>
 	<div class="row">
 		<div class="col-md-3">
-			<img src="photo/cake1.jpg" class="img-responsive image">
-			 <a href="#"><span><b>Cakes</b></span></a> <br>
+			<img src="photo/cake1.jpg" class="img-responsive  img-thumbnail1  img-thumbnail image1">
+			 <span class="over-text1"><b>Cakes</b><br>
+			 	Chocolate Excess Cake<br>Slice<br><a href="#">Barista</a><br>Rs.165<br>
+			 	<input type="text" name="" class="input" value="1"><br>
+			 	<button class="btn btn1 btn-success" >ORDER NOW></button> </span> <br>
 
-              <span><b>$68.00</b></span>
-			  <s>ddjjj</s>
+              
 		</div>
 		<div class="col-md-3">
-			<img src="photo/image4.jpg" class="img-responsive image">
-			 <a href="#"><span><b>Cakes</b></span></a> <br>
-                <span><b>$68.00</b></span>
-			 
+			<img src="photo/image4.jpg"  class="img-responsive  img-thumbnail1  img-thumbnail image1">
+			 <span class="over-text1"><b>Cakes</b><br>
+			 	Chocolate Excess Cake<br>Slice<br><a href="#">Barista</a><br>Rs.165<br>
+			 	<input type="text" name="" class="input" value="1"><br>
+			 	<button class="btn btn1 btn-success">ORDER NOW></button> </span> <br>
 		</div>
 		<div class="col-md-3">
-			<img src="photo/image6.jpg" class="img-responsive image">
-			 <a href="#"><span><b>Cakes</b></span></a> <br>
-		                <span><b>$68.00</b></span>
-
+			<img src="photo/image6.jpg"  class="img-responsive  img-thumbnail1  img-thumbnail image1">
+			 <span class="over-text1"><b>Cakes</b><br>
+			 	Chocolate Excess Cake<br>Slice<br><a href="#">Barista</a><br>Rs.165<br>
+			 	<input type="text" name="" class="input" value="1"><br>
+			 	<button class="btn btn1 btn-success" >ORDER NOW></button> </span> <br>
 		</div>
 		<div class="col-md-3">
-			<img src="photo/image2.jpg" class="img-responsive image" >
-			 <a href="#"><span><b>Cakes</b></span></a> <br>
-                <span><b>$68.00</b></span>
-
+			<img src="photo/image2.jpg"  class="img-responsive  img-thumbnail1  img-thumbnail image1">
+			 <span class="over-text1"><b>Cakes</b><br>
+			 	Chocolate Excess Cake<br>Slice<br><a href="#">Barista</a><br>Rs.165<br>
+			 	<input type="text" name="" class="input" value="1"><br>
+			 	<button class="btn btn1 btn-success" >ORDER NOW></button> </span> <br>
 		</div>
 
 	</div><br>
 	<div class="row">
 		<div class="col-md-3">
-			<img src="photo/cake2.jpg" class="img-responsive image">
-			 <a href="#" class="text-center"><span><b>Cakes</b></span></a> <br>
-                <span><b>$50.00</b></span>
+			<img src="photo/cake2.jpg"  class="img-responsive  img-thumbnail1  img-thumbnail image1">
+			 <span class="over-text1"><b>Cakes</b><br>
+			 	Chocolate Excess Cake<br>Slice<br><a href="#">Barista</a><br>Rs.165<br>
+			 	<input type="text" name="" class="input" value="1"><br>
+			 	<button class="btn btn1 btn-success">ORDER NOW></button> </span> <br>
 			  
 		</div>
 		<div class="col-md-3">
-			<img src="photo/image1.jpg" class="img-responsive image">
-	         <a href="#"><span><b>Cakes</b></span></a> <br>
-                <span><b>$68.00</b></span>
+			<img src="photo/image1.jpg"  class="img-responsive  img-thumbnail1  img-thumbnail image1">
+			 <span class="over-text1"><b>Cakes</b><br>
+			 	Chocolate Excess Cake<br>Slice<br><a href="#">Barista</a><br>Rs.165<br>
+			 	<input type="text" name="" class="input" value="1"><br>
+			 	<button class="btn btn1 btn-success">ORDER NOW></button> </span> <br>
 			 
 		</div>
 		<div class="col-md-3">
-			<img src="photo/image7.jpg" class="img-responsive image
-			">
-			 <a href="#"><span><b>Burgur</b></span></a> <br>
-                <span><b>$100.00</b></span>
+			<img src="photo/image7.jpg"  class="img-responsive  img-thumbnail1  img-thumbnail image1">
+			 <span class="over-text1"><b>Cakes</b><br>
+			 	Chocolate Excess Cake<br>Slice<br><a href="#">Barista</a><br>Rs.165<br>
+			 	<input type="text" name="" class="input" value="1"><br>
+			 	<button class="btn btn1 btn-success">ORDER NOW></button> </span> <br>
 			  
 		</div>
 		<div class="col-md-3">
-			<img src="photo/image3.jpg" class="img-responsive image">
-			 <a href="#"><span><b>Bakery</b></span></a> <br>
-                <span><b>$100.00</b></span>
+			<img src="photo/image3.jpg"  class="img-responsive  img-thumbnail1  img-thumbnail image1">
+			 <span class="over-text1"><b>Cakes</b><br>
+			 	Chocolate Excess Cake<br>Slice<br><a href="#">Barista</a><br>Rs.165<br>
+			 	<input type="text" name="" class="input" value="1"><br>
+			 	<button class="btn btn1 btn-success">ORDER NOW></button> </span> <br>
 			  
 		</div>
 	</div>

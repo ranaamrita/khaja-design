@@ -112,9 +112,9 @@ li a:hover {
     color: black;
   }
   input[type=text], input[type=password] {
-  width: 100%;
-  padding: 15px;
+  width: 14%;
+  padding: 4px;
   margin: 5px 0 22px 0;
   
-  background:#5ea15e;
+  
 }

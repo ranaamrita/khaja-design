@@ -163,28 +163,28 @@
 	<br><br>
 	<div class="row">
 		<div class="col-md-3 rel-pos">
-			<img src="photo/cake1.jpg" class="img-responsive img-thumbnail image shadow">
+			<img src="photo/cake1.jpg" class="img-responsive img-thumbnail img-thumbnail2 image2 shadow">
 			 <div class="over-text">
                 <a href="#"><span><b>Cakes</b></span></a> <br>
   
   </div>
 		</div>
 		<div class="col-md-3">
-			<img src="photo/image4.jpg" class="img-responsive img-thumbnail image">
+			<img src="photo/image4.jpg" class="img-responsive img-thumbnail img-thumbnail2 image2">
 			 <div class="over-text">
             <a href="#"><span><b>Cakes</b></span></a> <br>
   
   </div>
 		</div>
 		<div class="col-md-3">
-			<img src="photo/image6.jpg" class="img-responsive img-thumbnail image">
+			<img src="photo/image6.jpg" class="img-responsive img-thumbnail img-thumbnail2 image2">
 			<div class="over-text">
              <a href="#"><span><b>Cakes</b></span></a> <br>
   
             </div>
 		</div>
 		<div class="col-md-3">
-			<img src="photo/image2.jpg" class="img-responsive img-thumbnail image" >
+			<img src="photo/image2.jpg" class="img-responsive img-thumbnail img-thumbnail2 image2" >
 			 <div class="over-text">
              <a href="#"><span><b>Cakes</b></span></a> <br>
   
@@ -194,7 +194,7 @@
 	</div><br>
 	<div class="row">
 		<div class="col-md-3">
-			<img src="photo/cake2.jpg" class="img-responsive img-thumbnail image">
+			<img src="photo/cake2.jpg" class="img-responsive img-thumbnail img-thumbnail2  image2">
 			 <div class="over-text">
              <a href="#"><span><b>Cakes</b></span></a> <br>
   
@@ -202,7 +202,7 @@
 			  
 		</div>
 		<div class="col-md-3">
-			<img src="photo/image1.jpg" class="img-responsive img-thumbnail image">
+			<img src="photo/image1.jpg" class="img-responsive img-thumbnail img-thumbnail2 image2">
 	         <div class="over-text">
              <a href="#"><span><b>Cakes</b></span></a> <br>
   
@@ -210,7 +210,7 @@
 			 
 		</div>
 		<div class="col-md-3">
-			<img src="photo/image7.jpg" class="img-responsive img-thumbnail image
+			<img src="photo/image7.jpg" class="img-responsive img-thumbnail img-thumbnail2  image2
 			">
              <div class="over-text">
              <a href="#"><span><b>Cakes</b></span></a> <br>
@@ -218,7 +218,7 @@
             </div>
 		</div>
 		<div class="col-md-3">
-			<img src="photo/image3.jpg" class="img-responsive img-thumbnail image">
+			<img src="photo/image3.jpg" class="img-responsive img-thumbnail img-thumbnail2 image2">
 			 <div class="over-text">
              <a href="#"><span><b>Cakes</b></span></a> <br>
   
