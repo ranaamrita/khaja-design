@@ -14,8 +14,10 @@ margin-top: 50px;
 {
 	width: 313px;
 
-height: 452px;
+height: 499px;
 }
+
+
 .font
 {
 	font-size: 4.5rem;
@@ -60,7 +62,7 @@ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 
 position: absolute;
 
-top: 218px;
+top: 253px;
 
 text-align: center;
 
@@ -70,7 +72,7 @@ right: 7px;
 }
 .input
 {
-	width: 19px;
+	width: 49px;
 
 padding: 0px;
 }

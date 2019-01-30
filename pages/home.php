@@ -203,8 +203,8 @@
 		<div class="col-md-3">
 			<img src="photo/cake1.jpg" class="img-responsive  img-thumbnail1  img-thumbnail image1">
 			 <span class="over-text1"><b>Cakes</b><br>
-			 	Chocolate Excess Cake<br>Slice<br><a href="#">Barista</a><br>Rs.165<br>
-			 	<input type="text" name="" class="input" value="1"><br>
+			 	Chocolate Excess Cake<br>Slice<br><a href="#">Barista</a><br>Rs.165<br><br>
+			 	<input type="number" name="" class="input" value="1"><br><br>
 			 	<button class="btn btn1 btn-success" >ORDER NOW></button> </span> <br>
 
               
@@ -212,22 +212,22 @@
 		<div class="col-md-3">
 			<img src="photo/image4.jpg"  class="img-responsive  img-thumbnail1  img-thumbnail image1">
 			 <span class="over-text1"><b>Cakes</b><br>
-			 	Chocolate Excess Cake<br>Slice<br><a href="#">Barista</a><br>Rs.165<br>
-			 	<input type="text" name="" class="input" value="1"><br>
+			 	Chocolate Excess Cake<br>Slice<br><a href="#">Barista</a><br>Rs.165<br><br>
+			 	<input type="number" name="" class="input" value="1"><br><br>
 			 	<button class="btn btn1 btn-success">ORDER NOW></button> </span> <br>
 		</div>
 		<div class="col-md-3">
 			<img src="photo/image6.jpg"  class="img-responsive  img-thumbnail1  img-thumbnail image1">
 			 <span class="over-text1"><b>Cakes</b><br>
-			 	Chocolate Excess Cake<br>Slice<br><a href="#">Barista</a><br>Rs.165<br>
-			 	<input type="text" name="" class="input" value="1"><br>
+			 	Chocolate Excess Cake<br>Slice<br><a href="#">Barista</a><br>Rs.165<br><br>
+			 	<input type="number" name="" class="input" value="1"><br><br>
 			 	<button class="btn btn1 btn-success" >ORDER NOW></button> </span> <br>
 		</div>
 		<div class="col-md-3">
 			<img src="photo/image2.jpg"  class="img-responsive  img-thumbnail1  img-thumbnail image1">
 			 <span class="over-text1"><b>Cakes</b><br>
-			 	Chocolate Excess Cake<br>Slice<br><a href="#">Barista</a><br>Rs.165<br>
-			 	<input type="text" name="" class="input" value="1"><br>
+			 	Chocolate Excess Cake<br>Slice<br><a href="#">Barista</a><br>Rs.165<br><br>
+			 	<input type="number" name="" class="input" value="1"><br><br>
 			 	<button class="btn btn1 btn-success" >ORDER NOW></button> </span> <br>
 		</div>
 
@@ -236,32 +236,32 @@
 		<div class="col-md-3">
 			<img src="photo/cake2.jpg"  class="img-responsive  img-thumbnail1  img-thumbnail image1">
 			 <span class="over-text1"><b>Cakes</b><br>
-			 	Chocolate Excess Cake<br>Slice<br><a href="#">Barista</a><br>Rs.165<br>
-			 	<input type="text" name="" class="input" value="1"><br>
+			 	Chocolate Excess Cake<br>Slice<br><a href="#">Barista</a><br>Rs.165<br><br>
+			 	<input type="number" name="" class="input" value="1"><br><br>
 			 	<button class="btn btn1 btn-success">ORDER NOW></button> </span> <br>
 			  
 		</div>
 		<div class="col-md-3">
 			<img src="photo/image1.jpg"  class="img-responsive  img-thumbnail1  img-thumbnail image1">
 			 <span class="over-text1"><b>Cakes</b><br>
-			 	Chocolate Excess Cake<br>Slice<br><a href="#">Barista</a><br>Rs.165<br>
-			 	<input type="text" name="" class="input" value="1"><br>
+			 	Chocolate Excess Cake<br>Slice<br><a href="#">Barista</a><br>Rs.165<br><br>
+			 	<input type="number" name="" class="input" value="1"><br><br>
 			 	<button class="btn btn1 btn-success">ORDER NOW></button> </span> <br>
 			 
 		</div>
 		<div class="col-md-3">
 			<img src="photo/image7.jpg"  class="img-responsive  img-thumbnail1  img-thumbnail image1">
 			 <span class="over-text1"><b>Cakes</b><br>
-			 	Chocolate Excess Cake<br>Slice<br><a href="#">Barista</a><br>Rs.165<br>
-			 	<input type="text" name="" class="input" value="1"><br>
+			 	Chocolate Excess Cake<br>Slice<br><a href="#">Barista</a><br>Rs.165<br><br>
+			 	<input type="number" name="" class="input" value="1"><br><br>
 			 	<button class="btn btn1 btn-success">ORDER NOW></button> </span> <br>
 			  
 		</div>
 		<div class="col-md-3">
 			<img src="photo/image3.jpg"  class="img-responsive  img-thumbnail1  img-thumbnail image1">
 			 <span class="over-text1"><b>Cakes</b><br>
-			 	Chocolate Excess Cake<br>Slice<br><a href="#">Barista</a><br>Rs.165<br>
-			 	<input type="text" name="" class="input" value="1"><br>
+			 	Chocolate Excess Cake<br>Slice<br><a href="#">Barista</a><br>Rs.165<br><br>
+			 	<input type="number" name="" class="input" value="1"><br><br>
 			 	<button class="btn btn1 btn-success">ORDER NOW></button> </span> <br>
 			  
 		</div>
